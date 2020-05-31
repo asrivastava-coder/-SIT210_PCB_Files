@@ -1,0 +1,97 @@
+{
+  "uuid": "9b8c7f93894377043bd69acfaacc526e",
+  "path": "Offline/10.1",
+  "name": "10.1",
+  "content": "",
+  "created_at": "2020-05-26 10:45:54",
+  "updated_at": "2020-05-31 20:29:13",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "31858e95fb5cbcdc4e2e37a72548b765",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d8e31d4852ed4f32a5155a6f0dbb652a": 1,
+        "3d8c09f198c4456e89d6dbd5d094289c": 1,
+        "1b591e91dfe94fdb91c26daf1469453d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "+",
+          1,
+          "BUZZER-CCV",
+          "BUZZER",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "e1543b900e784130a9164bd615641b11",
+            "uuid": "1b591e91dfe94fdb91c26daf1469453d"
+          }
+        ],
+        [
+          "HC-SRO4",
+          1,
+          "SPM0204UD5",
+          "ULTRASONIC1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "a67f373a0f844561b6f9e1ed7a789fea",
+            "uuid": "3d8c09f198c4456e89d6dbd5d094289c"
+          }
+        ],
+        [
+          "PI-GPIO-CONNECTOR-SMT",
+          1,
+          "GPIO-CONNECTOR-SMT",
+          "RPI3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "dce37cdf48944c148220bd001e03edd0",
+            "uuid": "d8e31d4852ed4f32a5155a6f0dbb652a"
+          }
+        ]
+      ],
+      "updateTime": 1590920765,
+      "createTime": 1590453955,
+      "histories": [],
+      "created_at": "2020-05-26 10:45:55",
+      "updated_at": "2020-05-31 20:26:05"
+    },
+    {
+      "uuid": "5f29580bf836673df68615b924a4603f",
+      "puuid": "9b8c7f93894377043bd69acfaacc526e",
+      "title": "PCB_2020-05-31_20-29-13",
+      "filename": "PCB_2020-05-31_20-29-13.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e1543b900e784130a9164bd615641b11": 1,
+        "a67f373a0f844561b6f9e1ed7a789fea": 1,
+        "dce37cdf48944c148220bd001e03edd0": 1
+      },
+      "BOM": [],
+      "updateTime": 1590920953,
+      "createTime": 1590920953,
+      "histories": [],
+      "created_at": "2020-05-31 20:29:13",
+      "updated_at": "2020-05-31 20:29:13"
+    }
+  ],
+  "sort": [],
+  "title": "10.1",
+  "foldername": "10.1",
+  "schfilename": "10.1.json",
+  "schfilemtime": 1590920765930
+}
